@@ -7,28 +7,22 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Déployer une VM chez Hetzner</title>
-    <link>https://ctlab.github.io/tech-notes-site/Terraform/D%C3%A9ployer-une-VM-chez-Hetzner</link>
-    <guid>https://ctlab.github.io/tech-notes-site/Terraform/D%C3%A9ployer-une-VM-chez-Hetzner</guid>
+    <link>https://ctlab.github.io/tech-notes-site/Terraform/deploy-vm-hetzner</link>
+    <guid>https://ctlab.github.io/tech-notes-site/Terraform/deploy-vm-hetzner</guid>
     <description><![CDATA[ Prérequis tag1 hetzner. ]]></description>
-    <pubDate>Fri, 31 Oct 2025 13:36:59 GMT</pubDate>
+    <pubDate>Fri, 31 Oct 2025 13:44:27 GMT</pubDate>
   </item><item>
     <title>Terraform</title>
     <link>https://ctlab.github.io/tech-notes-site/Terraform/</link>
     <guid>https://ctlab.github.io/tech-notes-site/Terraform/</guid>
     <description><![CDATA[ Index terraform Retour : index. ]]></description>
-    <pubDate>Fri, 31 Oct 2025 13:36:59 GMT</pubDate>
+    <pubDate>Fri, 31 Oct 2025 13:44:27 GMT</pubDate>
   </item><item>
     <title>Deuxième page</title>
     <link>https://ctlab.github.io/tech-notes-site/page2</link>
     <guid>https://ctlab.github.io/tech-notes-site/page2</guid>
     <description><![CDATA[ Titre Ceci est une deuxième page #hetzner. ]]></description>
-    <pubDate>Fri, 31 Oct 2025 13:36:59 GMT</pubDate>
-  </item><item>
-    <title>Welcome to my Tech Notes</title>
-    <link>https://ctlab.github.io/tech-notes-site/</link>
-    <guid>https://ctlab.github.io/tech-notes-site/</guid>
-    <description><![CDATA[ Welcome This is my digital garden for tech notes ! ls -l cp mon_rep new_rep &lt;?php echo &quot;blb&quot; ?&gt; !. ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+    <pubDate>Fri, 31 Oct 2025 13:44:27 GMT</pubDate>
   </item>
     </channel>
   </rss>
